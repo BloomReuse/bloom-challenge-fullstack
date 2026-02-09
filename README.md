@@ -256,3 +256,8 @@ En conjunto, estas pr谩cticas permiten que un proyecto como el de Bloom Reuse 鈥
 5.  **Observabilidad**: Integrar logging estructurado, m茅tricas y tracing para monitorear la salud de la aplicaci贸n en producci贸n.
 
 6.  **CI/CD**: Configurar un pipeline de integraci贸n y despliegue continuo para automatizar las pruebas y los despliegues.
+
+
+Cambio en el c贸digo para testear rabbit pr
+
+console.log("hola")
